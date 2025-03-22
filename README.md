@@ -28,7 +28,7 @@ I consider myself a proactive person, committed to continuous improvement and pr
 
 ## 🛠️ Tecnologías y herramientas | Technologies & Tools
 
-### Lenguajes | Languages 
+### 💻 Lenguajes | Languages 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-Mobile-blue?logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-OOP-orange?logo=java&logoColor=white)
@@ -59,14 +59,45 @@ I consider myself a proactive person, committed to continuous improvement and pr
 
 ## 📂 Proyectos destacados | Highlighted Projects
 
-| Proyecto / Project | Descripción | Tecnologías |
-|--------------------|-------------|-------------|
-| [RutasApp](https://github.com/vamorale/RutasApp) | App de rutas y geolocalización | Java, Android |
-| [INF331-Tarea3](https://github.com/vamorale/INF331-Tarea3) | Gestión de tienda de videojuegos | Python |
-| [Pong](https://github.com/vamorale/pong) | Versión personalizada del clásico Pong | Unity, C# |
-| [Gardow](https://github.com/vamorale/Gardow) | Juego de estrategia y supervivencia | Unity, C# |
-| [Crulesterol](https://github.com/vamorale/Crulesterol) | Juego con enfoque educativo sobre la salud | Unity, C# |
-| [Calculadora Web](https://github.com/vamorale/calculadora-web) | Proyecto web básico con JS | HTML, CSS, JS |
+### 📱 Aplicaciones móviles | Mobile Apps
+
+- 🗺️ **[RutasApp](https://github.com/vamorale/RutasApp)**  
+  - 🇪🇸 App de rutas y geolocalización para dispositivos Android.  
+  - 🇺🇸 Route and geolocation tracking app for Android devices.
+
+---
+
+### 🎮 Videojuegos | Games
+
+- 🎮 **[Pong](https://github.com/vamorale/pong)**  
+  - 🇪🇸 Versión personalizada del clásico Pong en 2D usando Unity.  
+  - 🇺🇸 Custom 2D version of the classic Pong game using Unity.
+
+- 🌿 **[Gardow](https://github.com/vamorale/Gardow)**  
+  - 🇪🇸   
+  - 🇺🇸 
+
+- 🍟 **[Crulesterol](https://github.com/vamorale/Crulesterol)**  
+  - 🇪🇸   
+  - 🇺🇸 
+
+---
+
+### 🎓 Otros proyectos universitarios | University Projects
+
+Estos proyectos fueron desarrollados durante mi formación académica y están agrupados en un solo repositorio.
+
+> These projects were developed as part of my university education and are grouped in a single repository.
+
+📦 **[Repositorio: proyectos-universitarios]()**
+
+Incluye:
+- Proyectos más simples o prácticos
+- Prototipos de ejercicios
+
+🔗 *Cada proyecto tiene su propio README y un enlace al repositorio original.*
+
+> Each project includes its own README and a link to the original repository.
 
 ---
 
